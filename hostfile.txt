@@ -1,13 +1,11 @@
 # Host file
 
-0.0.0.0 0.0.0.0
-
-0.0.0.0 download.windowsupdate.com
-0.0.0.0 ds.download.windowsupdate.com
-0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 statsfe2.update.microsoft.com
-0.0.0.0 tp-link.com
-0.0.0.0 www.tp-link.com
-0.0.0.0 track.saygames.io
-0.0.0.0 www.update.microsoft.com
+download.windowsupdate.com
+ds.download.windowsupdate.com
+safebrowsing.googleapis.com
+sessions.bugsnag.com
+statsfe2.update.microsoft.com
+tp-link.com
+www.tp-link.com
+track.saygames.io
+www.update.microsoft.com
