@@ -1,5 +1,6 @@
 # Host file
 
+0.0.0.0 0.0.0.0
 
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 ds.download.windowsupdate.com
