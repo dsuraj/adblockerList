@@ -10,3 +10,4 @@
 127.0.0.1 www.tp-link.com
 0.0.0.0 track.saygames.io
 0.0.0.0 www.update.microsoft.com
+0.0.0.0 safebrowsing.googleapis.com
