@@ -1,18 +1,23 @@
 # Host file
 
-tp-link.com
+#Microsoft
+statsfe2.update.microsoft.com
+www.update.microsoft.com
+windowsupdate.microsoft.com
+www.download.windowsupdate.com
 download.windowsupdate.com
 ds.download.windowsupdate.com
-sessions.bugsnag.com
-statsfe2.update.microsoft.com
-www.tp-link.com
-track.saygames.io
-www.update.microsoft.com
+
+#Softwares
 safebrowsing.googleapis.com
 collector-hpn.ghostery.net
 license.piriform.com
 offers-api.ghostery.net
 shepherd.ff.avast.com
-windowsupdate.microsoft.com
-www.download.windowsupdate.com
+
+#others
+tp-link.com
+sessions.bugsnag.com
+track.saygames.io
 www.mycity.rs
+
