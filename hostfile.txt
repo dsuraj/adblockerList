@@ -6,8 +6,6 @@
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 statsfe2.update.microsoft.com
 0.0.0.0 tp-link.com
-127.0.0.1 tp-link.com
-127.0.0.1 www.tp-link.com
 0.0.0.0 track.saygames.io
 0.0.0.0 www.update.microsoft.com
 0.0.0.0 safebrowsing.googleapis.com
