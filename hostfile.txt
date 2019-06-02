@@ -9,3 +9,10 @@ www.tp-link.com
 track.saygames.io
 www.update.microsoft.com
 safebrowsing.googleapis.com
+collector-hpn.ghostery.net
+license.piriform.com
+offers-api.ghostery.net
+shepherd.ff.avast.com
+windowsupdate.microsoft.com
+www.download.windowsupdate.com
+www.mycity.rs
