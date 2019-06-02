@@ -3,7 +3,6 @@
 tp-link.com
 download.windowsupdate.com
 ds.download.windowsupdate.com
-safebrowsing.googleapis.com
 sessions.bugsnag.com
 statsfe2.update.microsoft.com
 www.tp-link.com
