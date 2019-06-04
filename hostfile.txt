@@ -20,4 +20,5 @@ tp-link.com
 sessions.bugsnag.com
 track.saygames.io
 www.mycity.rs
-
+au.ff.avast.com
+streamback.ff.avast.com
