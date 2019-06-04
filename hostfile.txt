@@ -13,12 +13,22 @@ safebrowsing.googleapis.com
 collector-hpn.ghostery.net
 license.piriform.com
 offers-api.ghostery.net
-shepherd.ff.avast.com
 
 #others
 tp-link.com
 sessions.bugsnag.com
 track.saygames.io
 www.mycity.rs
+
+#Avast
 au.ff.avast.com
 streamback.ff.avast.com
+forum.avast.com
+shepherd.ff.avast.com
+auth.ff.avast.com
+device-control.ff.avast.com
+vanheim.ff.avast.com
+cleaner.mobile.tools.avast.com
+apkrep.ff.avast.com
+feed.ff.avast.com
+auth2.ff.avast.com
