@@ -14,6 +14,9 @@ collector-hpn.ghostery.net
 license.piriform.com
 offers-api.ghostery.net
 
+#Unwanted
+cloud.cmcm.com
+
 #others
 tp-link.com
 sessions.bugsnag.com
