@@ -19,6 +19,7 @@ tp-link.com
 sessions.bugsnag.com
 track.saygames.io
 www.mycity.rs
+troyhunt.report-uri.com
 
 #Avast
 au.ff.avast.com
