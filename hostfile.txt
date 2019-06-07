@@ -17,7 +17,9 @@ offers-api.ghostery.net
 #Unwanted
 cloud.cmcm.com
 helpcmb1.ksmobile.com
-ksmobile.com
+helpcmqp0.ksmobile.com
+cmsecurity.ksmobile.com
+^ksmobile.com
 
 #others
 tp-link.com
