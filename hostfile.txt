@@ -1,4 +1,4 @@
-# Host file
+# Personal unwanted Host file
 
 #Microsoft
 statsfe2.update.microsoft.com
@@ -14,21 +14,10 @@ collector-hpn.ghostery.net
 license.piriform.com
 offers-api.ghostery.net
 
-#Unwanted
-cloud.cmcm.com
-helpcmb1.ksmobile.com
-helpcmqp0.ksmobile.com
-cmsecurity.ksmobile.com
-ksmobile.com
-
-#others
-tp-link.com
-sessions.bugsnag.com
-track.saygames.io
-www.mycity.rs
-troyhunt.report-uri.com
+#ksosoft
 dw-collect.ksosoft.com
 dw-online.ksosoft.com
+lb-dw-collect-ksosoft-com-1533841721.ap-southeast-1.elb.amazonaws.com
 
 #Avast
 au.ff.avast.com
@@ -42,3 +31,17 @@ cleaner.mobile.tools.avast.com
 apkrep.ff.avast.com
 feed.ff.avast.com
 auth2.ff.avast.com
+
+#Unwanted
+cloud.cmcm.com
+helpcmb1.ksmobile.com
+helpcmqp0.ksmobile.com
+cmsecurity.ksmobile.com
+ksmobile.com
+
+#others
+tp-link.com
+sessions.bugsnag.com
+track.saygames.io
+www.mycity.rs
+troyhunt.report-uri.com
