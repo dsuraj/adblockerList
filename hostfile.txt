@@ -46,3 +46,8 @@ track.saygames.io
 www.mycity.rs
 troyhunt.report-uri.com
 i5.weather.oppomobile.com
+
+#jwplayer
+jwplayer.com
+jwcdn.com
+content.jwplatform.com
