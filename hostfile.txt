@@ -31,6 +31,7 @@ cleaner.mobile.tools.avast.com
 apkrep.ff.avast.com
 feed.ff.avast.com
 auth2.ff.avast.com
+vps-v4.u.avcdn.net
 
 #Unwanted
 cloud.cmcm.com
