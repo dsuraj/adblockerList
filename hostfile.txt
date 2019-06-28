@@ -41,6 +41,7 @@ helpcmqp0.ksmobile.com
 cmsecurity.ksmobile.com
 ksmobile.com
 jenson.api.swiftkey.com
+api.raygun.io
 
 #others
 tp-link.com
