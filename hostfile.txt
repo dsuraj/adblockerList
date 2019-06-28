@@ -32,6 +32,7 @@ apkrep.ff.avast.com
 feed.ff.avast.com
 auth2.ff.avast.com
 vps-v4.u.avcdn.net
+avast.com
 
 #Unwanted
 cloud.cmcm.com
@@ -39,6 +40,7 @@ helpcmb1.ksmobile.com
 helpcmqp0.ksmobile.com
 cmsecurity.ksmobile.com
 ksmobile.com
+jenson.api.swiftkey.com
 
 #others
 tp-link.com
