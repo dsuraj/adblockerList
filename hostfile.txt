@@ -66,3 +66,7 @@ r2---sn-u2bpouxgoxu-ntqz.googlevideo.com
 r5---sn-u2bpouxgoxu-ntqd.googlevideo.com
 r6---sn-u2bpouxgoxu-ntq6.googlevideo.com
 r1---sn-u2bpouxgoxu-ntqy.googlevideo.com
+
+#ES Explorer
+www.estrongs.com
+pasta.estrongspro.duapps.com
