@@ -60,6 +60,9 @@ i5.weather.oppomobile.com
 connectivity-check.ubuntu.com
 gl-theme.oppomobile.com
 intl-feedback.oppomobile.com
+helpinghandinternetmarketing.com
+www.htc.com
+g.whatsapp.net
 
 #Youtube
 r2---sn-u2bpouxgoxu-ntqz.googlevideo.com
