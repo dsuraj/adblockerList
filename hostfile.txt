@@ -66,7 +66,8 @@ www.htc.com
 g.whatsapp.net
 ip.babybus.com
 mclean.cloud.360safe.com
-
+social.sega.com
+sa.unionstatistics.com
 
 #Youtube
 r2---sn-u2bpouxgoxu-ntqz.googlevideo.com
