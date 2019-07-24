@@ -35,6 +35,7 @@ feed.ff.avast.com
 auth2.ff.avast.com
 vps-v4.u.avcdn.net
 avast.com
+ams.vps-v4.u.avast.com
 
 #Unwanted
 cloud.cmcm.com
@@ -63,6 +64,9 @@ intl-feedback.oppomobile.com
 helpinghandinternetmarketing.com
 www.htc.com
 g.whatsapp.net
+ip.babybus.com
+mclean.cloud.360safe.com
+
 
 #Youtube
 r2---sn-u2bpouxgoxu-ntqz.googlevideo.com
