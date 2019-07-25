@@ -15,6 +15,10 @@ safebrowsing.googleapis.com
 collector-hpn.ghostery.net
 license.piriform.com
 offers-api.ghostery.net
+config.unityads.unity3d.col
+cloud.rovio.com
+cdn.ghostery.net
+api.ghostery.net
 
 #ksosoft
 dw-collect.ksosoft.com
