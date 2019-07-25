@@ -12,13 +12,15 @@ officestore.microsoft.com
 
 #Softwares
 safebrowsing.googleapis.com
-collector-hpn.ghostery.net
 license.piriform.com
-offers-api.ghostery.net
 config.unityads.unity3d.col
 cloud.rovio.com
+
+#Ghostery
 cdn.ghostery.net
 api.ghostery.net
+collector-hpn.ghostery.net
+offers-api.ghostery.net
 
 #ksosoft
 dw-collect.ksosoft.com
@@ -55,7 +57,17 @@ jwplayer.com
 jwcdn.com
 content.jwplatform.com
 
-#others
+#Youtube
+r2---sn-u2bpouxgoxu-ntqz.googlevideo.com
+r5---sn-u2bpouxgoxu-ntqd.googlevideo.com
+r6---sn-u2bpouxgoxu-ntq6.googlevideo.com
+r1---sn-u2bpouxgoxu-ntqy.googlevideo.com
+
+#ES Explorer
+www.estrongs.com
+pasta.estrongspro.duapps.com
+
+#Others
 tp-link.com
 sessions.bugsnag.com
 track.saygames.io
@@ -72,13 +84,3 @@ ip.babybus.com
 mclean.cloud.360safe.com
 social.sega.com
 sa.unionstatistics.com
-
-#Youtube
-r2---sn-u2bpouxgoxu-ntqz.googlevideo.com
-r5---sn-u2bpouxgoxu-ntqd.googlevideo.com
-r6---sn-u2bpouxgoxu-ntq6.googlevideo.com
-r1---sn-u2bpouxgoxu-ntqy.googlevideo.com
-
-#ES Explorer
-www.estrongs.com
-pasta.estrongspro.duapps.com
