@@ -87,3 +87,4 @@ sa.unionstatistics.com
 vas.samsungapps.com
 bibo.api.swiftkey.com
 au-odc.samsungapps.com
+psvpromo.psvgamestudio.com
