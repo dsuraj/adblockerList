@@ -84,3 +84,6 @@ ip.babybus.com
 mclean.cloud.360safe.com
 social.sega.com
 sa.unionstatistics.com
+vas.samsungapps.com
+bibo.api.swiftkey.com
+au-odc.samsungapps.com
