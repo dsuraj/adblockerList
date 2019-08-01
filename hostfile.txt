@@ -21,6 +21,7 @@ cdn.ghostery.net
 api.ghostery.net
 collector-hpn.ghostery.net
 offers-api.ghostery.net
+cdn.ghostery.com
 
 #ksosoft
 dw-collect.ksosoft.com
@@ -88,3 +89,8 @@ vas.samsungapps.com
 bibo.api.swiftkey.com
 au-odc.samsungapps.com
 psvpromo.psvgamestudio.com
+conff.dc.oppomobile.com
+ping1.tnt-ea.com
+pvz2-prd.popcap.com
+river-mobile.data.ea.com
+user.sn.eamobile.com
