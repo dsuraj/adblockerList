@@ -94,3 +94,11 @@ ping1.tnt-ea.com
 pvz2-prd.popcap.com
 river-mobile.data.ea.com
 user.sn.eamobile.com
+ape-htc.isappcloud.com
+api.ipify.org
+api.ticlock.com
+dm.htcsense.com
+halfbrick.helpshift.com
+outcome-ssp.supersonicads.com
+trans.globalnetworkad.com
+us-request.foxitservice.com
