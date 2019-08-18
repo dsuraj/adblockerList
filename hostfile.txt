@@ -102,3 +102,5 @@ halfbrick.helpshift.com
 outcome-ssp.supersonicads.com
 trans.globalnetworkad.com
 us-request.foxitservice.com
+dls1prd.di.atlas.samsung.com
+gld.di.atlas.samsung.com
