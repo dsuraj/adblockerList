@@ -105,3 +105,4 @@ us-request.foxitservice.com
 dls1prd.di.atlas.samsung.com
 gld.di.atlas.samsung.com
 www.bing.com
+identity.mparticle.com
