@@ -106,3 +106,6 @@ dls1prd.di.atlas.samsung.com
 gld.di.atlas.samsung.com
 www.bing.com
 identity.mparticle.com
+cfg.mobisystems.com
+connect.mobisystems.com
+evt.mxplay.com
