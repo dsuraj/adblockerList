@@ -113,3 +113,5 @@ apiv2.bricknet.com
 cdn.bricknet.com
 lovemoney.vn
 market.wordgameplay.com
+api.pythonexample.com
+market.mysterywordplay.com
