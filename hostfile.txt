@@ -109,3 +109,7 @@ identity.mparticle.com
 cfg.mobisystems.com
 connect.mobisystems.com
 evt.mxplay.com
+apiv2.bricknet.com
+cdn.bricknet.com
+lovemoney.vn
+market.wordgameplay.com
