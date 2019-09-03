@@ -115,3 +115,13 @@ lovemoney.vn
 market.wordgameplay.com
 api.pythonexample.com
 market.mysterywordplay.com
+api.samsungosp.com
+bbdata.babybus.com
+config-api.internet.apps.samsung.com
+dc.di.atlas.samsung.com
+g.s.360.cn
+pfs-intl.oppomobile.com
+service.game-mode.net
+switch.babybus.com
+www.netflix.com
+xtrapath3.izatcloud.net
