@@ -194,3 +194,14 @@ t6.rbxcdn.com
 t7.rbxcdn.com
 
 
+
+accounts.ea.com
+draper.popcap.com
+gateway.ea.com
+gats.ecs.popcap.com
+jioodu.local.html
+mars.tnt-ea.com
+mods.sandboxol.com
+static-www.ecs.popcap.com
+syn-dir.sn.eamobile.com
+usa.ime.cootek.com
