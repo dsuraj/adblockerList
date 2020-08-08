@@ -1,2 +1,2 @@
 # adblockerList
-Personal Adblocker list
+Personal Adblocker list for pihole
