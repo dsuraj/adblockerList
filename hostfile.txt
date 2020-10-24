@@ -222,3 +222,17 @@ httpdns.ocloud.oppomobile.com
 conf-cn-dc.heytapdownload.com
 dragate-sg.dc.heytapmobi.com
 saufs.coloros.com
+collect16827pllhm.deltadna.net
+userlocation.googleapis.com
+shortintl.push.heytapmobi.com
+collector.appconsent.io
+live.wmncdn.net
+v2.yovoads.com
+minecraftprod.rtep.msgamestudios.com
+xforge.xboxlive.com
+in.appcenter.ms
+20ca2.playfabapi.com
+www.ospserver.net
+cdn.tellurionmobile.com
+i6f.weather.oppomobile.com
+in-spiky.wzrkt.com
