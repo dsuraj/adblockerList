@@ -215,6 +215,10 @@ api-cn.theme.heytapmobi.com
 mazu.3g.qq.com
 api-cn.cdo.heytapmobi.com
 gslb-cn.cdo.heytapmobi.com
+conf-sg.dc.heytapmobi.com
+dcintl.push.heytapmobile.com
+shortintl.push.heytapmobile.com
 httpdns.ocloud.oppomobile.com
 conf-cn-dc.heytapdownload.com
+dragate-sg.dc.heytapmobi.com
 saufs.coloros.com
