@@ -236,6 +236,7 @@ www.ospserver.net
 cdn.tellurionmobile.com
 i6f.weather.oppomobile.com
 in-spiky.wzrkt.com
+conf-sg-dc.heytapdl.com
 
 #Alex
 data.alexa.com
@@ -310,3 +311,18 @@ tracking.miui.com
 tracking.intl.miui.com
 tracking.india.miui.com
 tracking.rus.miui.com
+
+app.adjust.net.in
+clientstream.launchdarkly.com
+dns.google
+5c9e6449.api.splkmobile.com
+applications.mobisystems.com
+www.mobisystems.com
+icosa-sg.coloros.com
+classify.apps.coloros.com
+static.arcgis.com
+www.arcgis.com
+stickerf.apps.oppomobile.com
+icosa-sg.coloros.com
+classify.apps.coloros.com
+videoclipf.apps.coloros.com
