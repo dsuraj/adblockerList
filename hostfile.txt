@@ -326,3 +326,7 @@ stickerf.apps.oppomobile.com
 icosa-sg.coloros.com
 classify.apps.coloros.com
 videoclipf.apps.coloros.com
+
+privatestats.whatsapp.net
+wv-keyos-aps1.licensekeyserver.com
+languagef.coloros.com
