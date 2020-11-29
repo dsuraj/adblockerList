@@ -330,3 +330,5 @@ videoclipf.apps.coloros.com
 privatestats.whatsapp.net
 wv-keyos-aps1.licensekeyserver.com
 languagef.coloros.com
+captive.apple.com
+ipv4.icanhazip.com
