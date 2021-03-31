@@ -179,7 +179,7 @@ onedriveclucproddm20040.blob.core.windows.net
 oneocsp.microsoft.com
 optanon.blob.core.windows.net
 otf.msn.com
-outlook.office365.com
+#outlook.office365.com
 packages.dmd.metaservices.microsoft.com
 pipe.skype.com
 pstrgqp01.blob.core.windows.net
