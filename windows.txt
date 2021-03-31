@@ -94,7 +94,6 @@ ipv4.login.live.com
 kiwi.blob.core.windows.net
 licensing.mp.microsoft.com
 location-inference-westus.cloudapp.net
-login.live.com
 login.microsoftonline.com
 login.msa.akadns6.net
 logincdn.msauth.net
@@ -208,7 +207,6 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
-#substrate.office.com
 support.microsoft.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
